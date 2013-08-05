@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Bullshit Generator
-Plugin URI: http://ramiabraham.com/projects/bullshit-generator
+Plugin URI: http://ramiabraham.com/buzzword-generator-shortcode/
 Description: Makes marketing bullshit based on the old dack.com arrays
 Version: 1.0
 Author: ramiabraham
 Contributors: ramiabraham
-Author URI: http://ramiabraham.com
+Author URI: http://rami.nu
 */
 
 /*  Copyright 2013 Rami Abraham
