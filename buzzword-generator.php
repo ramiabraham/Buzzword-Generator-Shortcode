@@ -6,6 +6,7 @@ Description: Makes marketing bullshit based on the old dack.com arrays
 Version: 1.0
 Author: ramiabraham
 Contributors: ramiabraham
+Tags: shortcode, marketing, bs, lies, arrays, dack
 License: GPLv2 or later
 Tested up to: 3.6
 Author URI: http://rami.nu
